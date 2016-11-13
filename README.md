@@ -1,2 +1,3 @@
 # hello-world
-A project with a purpose of learning github
+
+The tutorial asked me to write something about myself, but I will be rebel on this. 
